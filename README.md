@@ -3,7 +3,7 @@
 <h3><i>Predicting The Probability of Credit Card Default using Machine Learning</i></h3>
 <br>
 
-<p> https://credit-default.herokuapp.com/    </p>
+<p> https://cred-default-prediction.herokuapp.com/   </p>
 
 ![GitHub Logo](/credit.jpg)
 
